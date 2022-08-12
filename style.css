@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    padding: 23px;
+    background-color: skyblue;
+    color: white;
+}
+
+.formstyle{
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    background-color: grey;
+    border: 3px solid skyblue;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+}
+.textview{
+    width: 223px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+    background-color: lightgreen;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
+input:hover {
+    background-color: aquamarine;
+}
